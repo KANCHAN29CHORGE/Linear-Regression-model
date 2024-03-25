@@ -1,1 +1,1 @@
-# Linear-Regression-model
+# Linear-Regression-model(Radix Educational Trust)
